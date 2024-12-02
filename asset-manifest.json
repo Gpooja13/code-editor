@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gpooja13/code-editor/static/css/main.e220a91b.css",
+    "main.js": "/Gpooja13/code-editor/static/js/main.5d371dc9.js",
+    "index.html": "/Gpooja13/code-editor/index.html",
+    "main.e220a91b.css.map": "/Gpooja13/code-editor/static/css/main.e220a91b.css.map",
+    "main.5d371dc9.js.map": "/Gpooja13/code-editor/static/js/main.5d371dc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e220a91b.css",
+    "static/js/main.5d371dc9.js"
+  ]
+}
